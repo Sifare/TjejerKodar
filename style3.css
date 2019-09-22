@@ -1,0 +1,28 @@
+body{
+  background-color: lightgrey;
+}
+
+
+
+div {
+width: 300px;
+height: 200px;
+border: 3px solid black;
+}
+
+.lightgrey-box {
+  width:50%
+  height:400px;
+  background-color: lightgrey;
+  color: black;
+  margin: 100px;
+  padding: 20 px;
+}
+
+
+
+h1{}
+
+  a{
+    color:black;
+  }

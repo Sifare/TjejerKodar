@@ -1,0 +1,47 @@
+
+body{
+  background-color: grey;
+}
+
+
+
+
+h1{
+  color: black;
+  font-family: cursive;
+  width: 300px;
+  margin: auto;
+}
+
+p{
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height:300px;
+}
+
+
+.Kontakt{
+  color: red;
+}
+
+.Produkter{
+  color: black;
+}
+
+.Inspiration
+
+
+p{
+  color: white;
+}

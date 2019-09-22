@@ -1,0 +1,36 @@
+body{
+  background-color: lightgrey;
+}
+h1{
+  color: black;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  border:
+}
+
+div {
+width: 100px;
+height: 100px;
+border: 3px solid black;
+}
+
+.lightgrey-box {
+  width:70px
+  height:100px;
+  background-color: lightgrey;
+  background-image: url(gråshalstor.jpg);
+  color: black;
+  margin: 100px;
+}
+
+.lightgrey-box {
+  width:70px
+  height:200px;
+  background-color: lightgrey;
+  background-image: url(vitshalstor.jpg);
+  color: black;
+  margin: 100px;
+}
